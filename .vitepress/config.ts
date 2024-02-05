@@ -106,6 +106,8 @@ export default defineConfig({
             { text: 'Accounts', link: '/learn/protocol/accounts' },
             { text: 'Transactions', link: '/learn/protocol/transactions' },
             { text: 'Mempool', link: '/learn/protocol/mempool' },
+            { text: 'Becoming a Validator', link: '/learn/protocol/becoming-validator' },
+            { text: 'Becoming a Validator CLI', link: '/learn/protocol/becoming-validator-cli' },
             {
               text: 'Sync protocol',
               collapsed: false,
