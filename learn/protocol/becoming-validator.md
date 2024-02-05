@@ -193,7 +193,7 @@ validator:new <validator_address> <signing_private_key> <voting_private_key>
 command
 ```
 
-Update data on your validator such as voting and signing key, reward address or signal data. No caso do signal data, pode ser só avisar os outros validadores que vou fazer um upgrade ou que sou bué fixe
+Update data on your validator such as voting and signing key, reward address or signal data.
 
 <br/>
 
